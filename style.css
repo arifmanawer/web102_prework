@@ -77,3 +77,13 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+#unfunded-btn:hover {
+    cursor: pointer;
+}
+#funded-btn:hover {
+    cursor: pointer;
+}
+#all-btn:hover {
+    cursor: pointer;
+}

@@ -25,7 +25,7 @@ The following optional features are implemented: cursor changes to pointer when 
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/bMp2tAs' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.dropbox.com/scl/fi/z5khihnwrwy7pyc76c0b8/Arifweb102submission.gif?rlkey=rx484cwv3yrcdlzw8z8avywmo&dl=0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with macbook screen capture and then posted to imgur.
 

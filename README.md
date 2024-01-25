@@ -10,10 +10,10 @@ Time spent: 8 hours spent in total
 
 The following functionality is completed:
 
-- [Done] The introduction section explains the background of the company and how many games remain unfunded.
-- [Done] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-- [Done] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-- [Done] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+- [x] The introduction section explains the background of the company and how many games remain unfunded.
+- [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+- [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+- [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following optional features are implemented: cursor changes to pointer when hovering over
 "show unfunded only", "show funded only", and "all games" buttons.
@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 
 <img src='Arifweb102submission.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with macbook screen capture and then posted to imgur.
+GIF created with LiceCap and added locally to project and then updated readme from github to show gif. 
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
